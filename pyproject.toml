@@ -5,7 +5,7 @@ description = "An AI-powered agent for reviewing ServiceNow scripts and configur
 authors = [
     { name = "Ravi Teja Chava", email = "chavaraviteja@outlook.com" }
 ]
-license = {text = "MIT"}
+license = "MIT"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
